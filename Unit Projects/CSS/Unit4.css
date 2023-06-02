@@ -1,0 +1,8 @@
+.button {
+    -fx-pref-width: 50px;
+    -fx-background-color: transparent;
+    -fx-cursor: hand;
+}
+.text-field {
+    -fx-pref-width: 50px;
+}
